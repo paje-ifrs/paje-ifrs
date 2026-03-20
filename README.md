@@ -1,44 +1,38 @@
 # 🎮 PAJÉ — Programação Aplicada a Jogos Eletrônicos
 
-> Um grupo de estudos focado em desenvolvimento de jogos educativos, código aberto e aprendizado na prática.
-
-## 📌 Sobre o projeto
-
-O PAJÉ é um grupo de estudos voltado ao desenvolvimento de jogos, criado no IFRS – Campus Rio Grande.
+> O PAJÉ é um grupo de estudos voltado ao desenvolvimento de jogos, criado no IFRS – Campus Rio Grande.
 
 ## 🚀 Objetivo
 
-Criar um ambiente onde estudantes possam:
+- Criar um ambiente onde estudantes possam:
 
-Aplicar conhecimentos na prática
+- Integrar conhecimentos de diversas áreas
 
-Aprender novas tecnologias além da sala de aula
+- Desenvolver jogos com fins educativos
 
-Desenvolver jogos com fins educativos
-
-Evoluir tanto tecnicamente quanto em trabalho em equipe
+- Evoluir tanto tecnicamente quanto em trabalho em equipe
 
 ## 🧠 Por que jogos?
 
 Porque desenvolver jogos envolve:
 
-Lógica de programação
+- Lógica de programação
 
-Matemática e física
+- Matemática e física
 
-Criatividade e resolução de problemas
+- Criatividade e resolução de problemas
 
-Trabalho colaborativo
+- Trabalho colaborativo
 
 ## ⚙️ Como funciona
 
-Encontros periódicos de apresentacao de projetos
+- Encontros periódicos de apresentacao de projetos
 
-Participação livre em projetos
+- Participação livre em projetos
 
-Integração entre iniciantes e membros experientes
+- Integração entre iniciantes e membros experientes
 
-Aprendizado guiado + autoaprendizado
+- Aprendizado guiado + autoaprendizado
 
 Sem rigidez de horários — o foco é autonomia e aprendizado.
 
@@ -50,46 +44,41 @@ Sem rigidez de horários — o foco é autonomia e aprendizado.
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg">     
   
-  
-  
 </div>
 
 ## 🎯 Resultados esperados
 
-Desenvolvimento de jogos 
+- Desenvolvimento de jogos 
 
-Melhoria no raciocínio lógico
+- Melhoria no raciocínio lógico
 
-Experiência prática relevante
+- Experiência prática relevante
 
-Maior preparo para o mercado de trabalho
+- Maior preparo para o mercado de trabalho
 
 ## 🎓 Participação em eventos
 
 O PAJÉ também atua ativamente em eventos acadêmicos, compartilhando conhecimento e apresentando os projetos desenvolvidos.
 
 ### 🧑‍🏫 Minicursos
-4º Semana Acadêmica do Curso Técnico Integrado em Informática para Internet
-(IFSUL – Câmpus Avançado Jaguarão)
+- 4º Semana Acadêmica do Curso Técnico Integrado em Informática para Internet (IFSUL – Câmpus Avançado Jaguarão) - 2024
 
-5º Semana Acadêmica do Curso Técnico Integrado em Informática para Internet
-(IFSUL – Câmpus Avançado Jaguarão)
+- 5º Semana Acadêmica do Curso Técnico Integrado em Informática para Internet (IFSUL – Câmpus Avançado Jaguarão) - 2025
+
 ### 📢 Apresentações
-8ª Mostra de Ensino, Pesquisa & Extensão
-(IFRS – Câmpus Rio Grande)
+- 8ª Mostra de Ensino, Pesquisa & Extensão (IFRS – Câmpus Rio Grande) - 2024
 
-9ª Mostra de Ensino, Pesquisa & Extensão
-(IFRS – Câmpus Rio Grande)
+- 9ª Mostra de Ensino, Pesquisa & Extensão (IFRS – Câmpus Rio Grande) - 2025
 
 ### 🎮 Cursos ministrados
-Introdução ao Desenvolvimento de Jogos com JavaScript
-(Escola São Luiz Gonzaga – Rio Grande)
+
+- Introdução ao Desenvolvimento de Jogos com JavaScript (Escola São Luiz Gonzaga – Rio Grande) - 2025
 
 
 ## 🧩 Quem pode participar?
 
 Qualquer estudante da área de TI que:
 
-Tenha conhecimento básico em lógica de programação
+- Tenha conhecimento básico em lógica de programação
 
-Curta aprender na prática
+- Curta aprender se ralando
